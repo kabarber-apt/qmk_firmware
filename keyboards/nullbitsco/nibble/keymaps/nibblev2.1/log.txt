@@ -1,0 +1,1 @@
+edited code to remove if function determining oled functionality

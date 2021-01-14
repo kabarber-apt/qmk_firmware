@@ -1,0 +1,2 @@
+adding 1 frame of monokuma to OLED
+adding the rest of oled matrix to see if it fixes orientation

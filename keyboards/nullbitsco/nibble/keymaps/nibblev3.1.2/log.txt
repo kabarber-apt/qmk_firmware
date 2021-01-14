@@ -1,0 +1,9 @@
+removed:
+
+void oled_task_user(void) {
+    render_logo();
+}
+
+to
+
+render_logo();

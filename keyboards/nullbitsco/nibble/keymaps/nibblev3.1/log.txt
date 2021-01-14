@@ -1,0 +1,11 @@
+adding 1 frame of monokuma to OLED
+correcting canvas size and rotation
+correct settings
+https://javl.github.io/image2cpp/
+128x32
+black background
+scale to fit
+horizontal and vertical centre
+output plain bytes
+draw mode vertical
+images rotated 90 deg clockwise to be "right side up"
